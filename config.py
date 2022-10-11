@@ -1,0 +1,5 @@
+host="ec2-3-133-62-153.us-east-2.compute.amazonaws.com"
+port="3306"
+username="cmv_dev"
+password="mSfQbRy4&Fn]xZ$]"
+database="cmv_dev"
